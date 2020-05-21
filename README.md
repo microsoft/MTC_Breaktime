@@ -19,7 +19,7 @@ There is an optional Timer.  You can set how many minutes your break will be and
 
 # Run
 When you press the run button the screen will switch and the timer will start.
-![Run Screen](img/TBRunScreen.jpg)
+![Run Screen](img/BTRunScreen.jpg)
 
 # Configuration
 Once you press run you can get back to the configuration screen anytime by pressing the gear icon in the upper right corner. 
