@@ -1,3 +1,9 @@
+# About BreakTime
+This Microsoft PowerApp is a cool utility that allows you to quickly configure an informational screen to display on screen during a meeting break.  The tool can be used for in person or online events as it only requires a browser.  
+
+On Launch you can configure what the tool will display when you run it as follows:
+
+![insert alt text](img/BTConfigScreen.jpg)
 
 # Contributing
 
